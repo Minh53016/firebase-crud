@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861696121319",
+    "project_id": "de3-crud",
+    "storage_bucket": "de3-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861696121319:android:7278683a83960a6dc38542",
+        "android_client_info": {
+          "package_name": "com.example.de3_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861696121319-md5rdvts2caulvmmmsh36pao062ubalt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dYe7amIxf7mPWA9TVaquA-OMAS1UUjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861696121319-md5rdvts2caulvmmmsh36pao062ubalt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
